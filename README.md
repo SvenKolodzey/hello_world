@@ -1,5 +1,5 @@
 # hello_world_pages
-Just a quick test form GH pages including themes
+Just a quick test of GH pages including themes
 
 
 https://www.goodgamestudios.com/de/spiele/goodgame-empire/
